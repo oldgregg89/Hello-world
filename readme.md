@@ -2,7 +2,7 @@
 
 ### _This aplication says hello in mutiple languages, 5/26/2020_
 
-### By _**Mark Tiapkov and Megan Hepner*_My
+### By _**Ian Gregg, Tyson Lackey,Micheal Watts **_My
 
 ## Description 
 
@@ -21,8 +21,8 @@ _{varies by user & by software}
 ## Support and Contact Details 
 
 _{Contact Mark Tiapkov for any details: 
-* github:mtiapkov
-* email: mark.tiapkov@gmail.com }_
+* github:oldgregg89
+* email: iangregg188@gmail.com }_
 
 MIT License 
-Copyright (C) 2020 **_{Mark Tiapkov}_
+Copyright (C) 2020 **_{Ian Gregg}_
